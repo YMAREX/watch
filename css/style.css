@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.tabl input{
+    background-color: black;
+    width: 150px;
+    padding: 18px;
+    text-align: center;
+    color: #E5E5E5;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+.tabl2 input{
+    background-color: rgb(236, 236, 236);
+    width: 100px;
+    padding: 18px;
+    text-align: center;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+.tabl3{
+    display: flex;
+}
+.slava h1{
+    font-size: 200px;
+}
+.slava p{
+    font-size: 25px;
+}
+.bla p{
+    font-size: 15px;
+    margin-top: 100px;
+}
+.container{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.lene{
+    display: flex;
+}
+.slava{
+    padding-right: 80px;
+}
+.denis{
+    text-align: center;
+}
+.denis .neskaji{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.denis h2{
+    margin-bottom: 70px;
+    font-size: 50px;
+}
+.oksana p{
+    font-size: 20px;
+    padding-top: -50px;
+    padding-top: 20px !important;
+    padding-bottom: 40px !important;
+
+}
+.watch1 span{
+    font-weight: bold;
+    font-size: 25px;
+}
+.watch1 img{
+    padding-bottom: 50px;
+}
+.soska span{
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 20px !important;
+
+}
+.imga{
+    padding-bottom: 20px;
+}
+.oksana h3{
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-top: 70px;
+}
+.chlen a{
+    color: #BB8B5D;
+}
+.siski{
+    background-color: #707070;
+    width: 178px;
+    height: 1px;
+    margin: 0px auto;
+    margin-bottom: 40px;
+}
+
